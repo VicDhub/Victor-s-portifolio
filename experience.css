@@ -1,0 +1,43 @@
+.tittle{
+    background-color: burlywood;
+    
+}
+
+.name{
+    color: black;
+    float: right;
+    margin-right: 20px;
+    font-size: xx-large;
+    font-weight: 700;
+
+}
+.namee{
+    color: black;
+    font-style: italic;
+    float: right;
+}
+.navbar{
+    text-decoration: none;
+    margin: 10px;
+
+}
+.navbar:hover{
+    background-color: brown;
+    color: aliceblue;
+    border-radius: 5px;
+}
+.footer{
+    background-color: gray;
+}
+.cont{
+    margin-left: 20px;
+}
+.image1{
+    border-radius: 100px;
+    margin: 20px;
+}
+.img3{
+    float: none;
+       
+}
+
